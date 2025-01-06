@@ -1,4 +1,4 @@
-package com.example.ms_comment.dto.model;
+package com.example.ms.comment;
 
 import lombok.*;
 

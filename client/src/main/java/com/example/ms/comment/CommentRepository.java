@@ -1,6 +1,5 @@
-package com.example.mscomment.client.repository;
+package com.example.ms.comment;
 
-import com.example.ms_comment.dto.model.CommentDto;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 

@@ -109,7 +109,7 @@
 				<groupId>org.springframework.boot</groupId>
 				<artifactId>spring-boot-maven-plugin</artifactId>
 				<configuration>
-					<mainClass>com.example.com.example.mscomment.MsCommentApplication</mainClass> <!-- Указан главный класс -->
+					<mainClass>com.example.com.example.ms.comment.MsCommentApplication</mainClass> <!-- Указан главный класс -->
 				</configuration>
 			</plugin>
 			<plugin>
