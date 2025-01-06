@@ -1,4 +1,4 @@
-package com.example.ms_comment.dto;
+package com.example.ms_comment.dto.model;
 
 import lombok.Data;
 import lombok.Getter;

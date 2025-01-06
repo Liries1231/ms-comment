@@ -1,7 +1,7 @@
 package com.example.mscomment.controller;
 
 
-import com.example.ms_comment.dto.CommentDto;
+import com.example.ms_comment.dto.model.CommentDto;
 import com.example.mscomment.client.cfg.CommentClient;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
