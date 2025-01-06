@@ -24,6 +24,7 @@
     <artifactId>service</artifactId>
     <dependencies>
         <!-- Lombok -->
+
         <dependency>
             <groupId>org.projectlombok</groupId>
             <artifactId>lombok</artifactId>
